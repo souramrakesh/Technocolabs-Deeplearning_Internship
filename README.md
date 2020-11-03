@@ -11,4 +11,4 @@ Please refer code here for activity 1- 2 [code_link](https://github.com/souramra
 7. Optimizing a Deep Learning Model
 Please refer code for Task 3-7 [code_link](https://github.com/souramrakesh/Technocolabs-Internship-Project-/blob/main/Bitcoin_Task/Bitcoin_Task-3_to_Task_7.ipynb)
 8. Building Dynamic Models [code_link](https://github.com/souramrakesh/Technocolabs-Internship-Project-/tree/main/Bitcoin/Deployment/Deployment_Task_8.ipynb)
-9. Deploying a Deep Learning Application
+9. Deploying a Deep Learning Application(in progress)
